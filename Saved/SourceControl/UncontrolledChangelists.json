@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/Real Second Game/RealSecondGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal Projects/Real Second Game/RealSecondGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Unreal Projects/Real Second Game/RealSecondGame/Content/SecondGame/Hud_HudWidget/HudWidget_Complete.uasset",
+				"C:/Unreal Projects/Real Second Game/RealSecondGame/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
